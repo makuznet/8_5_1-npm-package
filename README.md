@@ -17,6 +17,7 @@ git clone https://github.com/makuznet/8_5_1-npm-package
 ## Acknowledgments
 This repo was inspired by [skillfactory.ru](https://skillfactory.ru/devops#syllabus) team and [Viktor Paygusov](https://github.com/vic-pay/sf__npm_array_payva)
 ## See Also
--[npm](https://www.npmjs.com/)
+- [npm](https://www.npmjs.com/)  
+- [My package on npm](https://www.npmjs.com/package/two-array-functions)  
 ## License
 Follow all involved parties licenses terms and conditions.

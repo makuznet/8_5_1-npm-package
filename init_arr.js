@@ -1,0 +1,1 @@
+module.exports = [100, 200, 300];

@@ -1,4 +1,4 @@
-# Your own npm package
+# Two array functions
 
 > This this repo adds one element and delete another element of a provided array.   
 

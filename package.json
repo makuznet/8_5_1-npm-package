@@ -1,0 +1,19 @@
+{
+  "name": "two-array-functions",
+  "version": "1.0.0",
+  "description": "Adds one element and delete another element of a provided array.",
+  "main": "do.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makuznet/8_5_1-npm-package.git"
+  },
+  "author": "Maksim Kuznetsov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makuznet/8_5_1-npm-package/issues"
+  },
+  "homepage": "https://github.com/makuznet/8_5_1-npm-package#readme"
+}

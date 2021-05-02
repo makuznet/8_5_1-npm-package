@@ -1,6 +1,6 @@
 # Two array functions
 
-> This this repo adds one element and delete another element of a provided array.   
+> This repo adds one element and delete another element of a provided array.   
 
 ## Usage 
 ### Initial array
